@@ -1,1 +1,2 @@
-i m practicing some git commands
+i m practicing some git command
+im still practioning the scrips
